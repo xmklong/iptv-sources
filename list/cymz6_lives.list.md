@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -28,4 +28,4 @@
 | 22 | 贵州卫视 | IPv4 直链 | <http://123.154.154.59:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 23 | 辽宁卫视 | IPv4 直链 | <http://123.154.154.59:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Jul 03 2025 14:20:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 03 2025 16:25:50 GMT+0000 (Coordinated Universal Time)**
